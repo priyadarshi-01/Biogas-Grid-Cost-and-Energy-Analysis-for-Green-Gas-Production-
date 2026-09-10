@@ -1,6 +1,6 @@
 # Biogas-Grid-Cost-and-Energy-Analysis-for-Green-Gas-Production-
 
-- Analyzed the biogas value chain from waste collection and anaerobic digestion to biomethane upgrading and grid injection
+Analyzed the biogas value chain from waste collection and anaerobic digestion to biomethane upgrading and grid injection
 and developed an Excel-based techno-economic model estimating cost and energy consumption per m³ of green gas for a
 decentralized-production, centralized-upgrading system.
 
